@@ -1,0 +1,1 @@
+Json serve para passar informação para o servidor javaScript
